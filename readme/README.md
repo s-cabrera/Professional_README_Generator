@@ -1,10 +1,9 @@
-# Professional README Generator
+# Example README
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description 
 
-* This will generate README.md files based on user input and generated in a professional format. 
-* [DEMO](https://drive.google.com/file/d/1ni7WztnmDWcnzgPCXFIw4qe_MCBKEXmS/view)
+This a test of the type of README you can generate using this application 
 
 ## Table of Contents 
 
@@ -28,7 +27,7 @@ npm install
 ```
 
 ## Usage
-Run command: node index.js
+Run the command: node index.js 
 
 ## License 
 
@@ -36,16 +35,16 @@ MIT
 
 ## Contributing
 
-Email me 
+Email me about contributions 
 
 ## Tests
 
 To run tests, run the following command:
 ```bash
- no tests 
+ no test 
 
 ```
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at stephanie.cabrera.333@gmail.com. You can find more of my work at my [Github](https://github.com/s-cabrera/).
+If you have any questions about the repo, open an issue or contact me directly at user@email.com. You can find more of my work at [username](https://github.com/username/).

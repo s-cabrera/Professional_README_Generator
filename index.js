@@ -29,7 +29,7 @@ function license(input){
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    return fs.writeFileSync("./" + fileName,
+    return fs.writeFileSync("./readme/" + fileName,
         `# ${data.title}`+ "\n" +
         license(data.license) + "\n\n"+
         "## Description \n\n" +
@@ -59,9 +59,9 @@ function writeToFile(fileName, data) {
         "```\n\n" +
         "## Questions\n\n" +  
         "If you have any questions about the repo, open an issue or contact me directly at " + 
-        data.github + 
-        ". You can find more of my work at [" +
         data.email + 
+        ". You can find more of my work at [" +
+        data.github + 
         "](https://github.com/" + 
         data.github + 
         "/)."
